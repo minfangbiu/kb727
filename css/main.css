@@ -159,10 +159,10 @@ body {
 
 .pixelMe {
   visibility: hidden;
-  height: 444px;
-  width: 337px;
+  height: 218px;
+  width: 128px;
   margin: 0 auto;
-  background: url(../img/fitness-demonstration.jpg);
+  background: url(../img/pixelme.png);
 }
 
 i.service-icon {
