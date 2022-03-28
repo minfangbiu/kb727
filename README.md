@@ -1,4 +1,4 @@
-one-page-website using Bootstrap 3
+One-Page-Website Using Bootstrap 3
 ==================================
 - Update img/pixelme.png
 - Find more link icons at fontwesome.com
