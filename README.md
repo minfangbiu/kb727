@@ -1,6 +1,9 @@
-one-page-portfolio
-==================
-
-This repo is meant to offer my portfolio as an example of a one page website using Bootstrap 3.
-
-[Live Demo](https://kb727.com "Live Demo")
+one-page-website using Bootstrap 3
+==================================
+- Update img/pixelme.png
+Find more link icons at fontwesome.com
+Update PDF linked file content and date in it
+Reference source code file
+Modify footer year
+A careful promotion plan
+Consider a smaller segmented market
