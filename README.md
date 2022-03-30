@@ -1,4 +1,4 @@
-## One-Page-Website Using Bootstrap 3 archived and read-only.
+## One-page-website using bootstrap 3 archived and read-only.
 - Update img/pixelme.png
 - Find more link icons at fontwesome.com
 - Update PDF linked file content and date in it.
