@@ -7,3 +7,5 @@ One-Page-Website Using Bootstrap 3
 - Modify footer year
 - A careful promotion plan
 - Consider a smaller segmented market
+==================================
+It is archived and read-only.
