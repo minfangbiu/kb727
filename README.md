@@ -1,5 +1,4 @@
-One-Page-Website Using Bootstrap 3
-==================================
+# One-Page-Website Using Bootstrap 3 archived and read-only.
 - Update img/pixelme.png
 - Find more link icons at fontwesome.com
 - Update PDF linked file content and date in it.
@@ -7,5 +6,3 @@ One-Page-Website Using Bootstrap 3
 - Modify footer year.
 - A careful promotion plan.
 - Consider a smaller segmented market.
-==================================
-It is archived and read-only.
