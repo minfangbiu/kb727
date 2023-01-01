@@ -45,7 +45,7 @@ body {
   margin-right: -250px;
   right: 0;
   width: 250px;
-  background: #0a5175;
+  background: #428bca;
   position: fixed;
   height: 200px;
   border-bottom-left-radius: 20px;
@@ -73,13 +73,13 @@ body {
 }
 
 .sidebar-nav li a {
-  color: #ffffff;
+  color: #F3EEEE;
   display: block;
   text-decoration: none;
 }
 
 .sidebar-nav li a:hover {
-  color: #ffffff;
+  color: #fff;
   background: rgba(255,255,255,0.2);
   text-decoration: none;
 }
@@ -96,11 +96,11 @@ body {
 }
 
 .sidebar-nav > .sidebar-brand a {
-  color: #ffffff;
+  color: #F3EEEE;
 }
 
 .sidebar-nav > .sidebar-brand a:hover {
-  color: #ffffff;
+  color: #fff;
   background: none;
 }
 
@@ -148,7 +148,7 @@ body {
 /* Services */
 
 .services {
-  background: #0a5175;
+  background: #7fbbda;
   padding: 50px 0;
   color: #ffffff;
 }
@@ -225,7 +225,7 @@ i.service-icon {
     height:25%;
     padding:2%;
     text-align:center;
-    color:#ffffff !important;
+    color:#fff !important;
     z-index:2;
 }*/
 
@@ -234,15 +234,15 @@ i.service-icon {
 }
 
 .caption a {
-  color: #ffffff;
+  color: #DCE9F5;
   text-decoration: underline;
 }
 
 /* Call to Action */
 
 .call-to-action {
-  color: #333333;
-  background: #ffffff;
+  color: #ffffff;
+  background: #0a5175;
   padding: 5px 0;
 }
 
