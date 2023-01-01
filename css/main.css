@@ -45,7 +45,7 @@ body {
   margin-right: -250px;
   right: 0;
   width: 250px;
-  background: #428bca;
+  background: #0a5175;
   position: fixed;
   height: 200px;
   border-bottom-left-radius: 20px;
@@ -73,13 +73,13 @@ body {
 }
 
 .sidebar-nav li a {
-  color: #F3EEEE;
+  color: #ffffff;
   display: block;
   text-decoration: none;
 }
 
 .sidebar-nav li a:hover {
-  color: #fff;
+  color: #ffffff;
   background: rgba(255,255,255,0.2);
   text-decoration: none;
 }
@@ -96,11 +96,11 @@ body {
 }
 
 .sidebar-nav > .sidebar-brand a {
-  color: #F3EEEE;
+  color: #ffffff;
 }
 
 .sidebar-nav > .sidebar-brand a:hover {
-  color: #fff;
+  color: #ffffff;
   background: none;
 }
 
@@ -148,7 +148,7 @@ body {
 /* Services */
 
 .services {
-  background: #7fbbda;
+  background: #0a5175;
   padding: 50px 0;
   color: #ffffff;
 }
@@ -225,7 +225,7 @@ i.service-icon {
     height:25%;
     padding:2%;
     text-align:center;
-    color:#fff !important;
+    color:#ffffff !important;
     z-index:2;
 }*/
 
@@ -234,7 +234,7 @@ i.service-icon {
 }
 
 .caption a {
-  color: #DCE9F5;
+  color: #ffffff;
   text-decoration: underline;
 }
 
