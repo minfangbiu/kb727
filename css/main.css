@@ -235,7 +235,7 @@ i.service-icon {
 
 .caption a {
   color: #ffffff;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 /* Call to Action */
@@ -268,7 +268,7 @@ i.service-icon {
 
 .top-scroll a {
   text-decoration: none;
-  color: #333333;
+  color: inherit;
 }
 
 i.scroll {
@@ -276,7 +276,7 @@ i.scroll {
 }
 
 i.scroll:hover {
-  color: #333333;
+  color: #0a5175;
 }
 /* Responsive */
 
