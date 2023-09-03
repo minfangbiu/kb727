@@ -11,6 +11,7 @@ body {
   vertical-align: middle;
   text-align: center;
   color: white;
+  text-shadow: black 3px 1px 3px;
 }
 
 .vert-text h1 {
