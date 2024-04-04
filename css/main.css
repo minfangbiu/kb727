@@ -159,10 +159,10 @@ body {
 
 .pixelMe {
   visibility: hidden;
-  height: 180px;
+  height: 300px;
   width: 128px;
   margin: 0 auto;
-  background: url(../img/pixelme.png);
+  background: url(../img/favicon.png);
 }
 
 i.service-icon {
