@@ -1,1 +1,1 @@
-### KB727.com provides copywriting services for agencies, businesses, and e-commerce. It's an one-page-website using bootstrap 3.
+### KB727.com is an one-page-website with English Chinese version using bootstrap 3.
