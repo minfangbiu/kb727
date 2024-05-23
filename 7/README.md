@@ -1,1 +1,0 @@
-### KB727.com is an one-page-website with English Chinese version using bootstrap 3.
